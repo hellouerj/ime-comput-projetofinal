@@ -1,5 +1,8 @@
 # Informações sobre a disciplina de Projeto Final
-## Departamento de Informática e Ciência da Computação / Instituto de Matemática e Estatística / Universidade do Estado do Rio de Janeiro (COMPUT/IME/UERJ)
+
+##### Departamento de Informática e Ciência da Computação (COMPUT)
+##### Instituto de Matemática e Estatística (IME)
+##### Universidade do Estado do Rio de Janeiro (UERJ)
 
 > Versão alfa - 02/04/2026
 
