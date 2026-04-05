@@ -16,7 +16,7 @@ Obs.: Este é um trabalho em andamento. Sugestões e correções são bem-vindas
 - Inscrição na disciplina
 - Elaboração do TCC
 - Defesa do Projeto Final
-- [Procedimentos pós-defesa](docs/contatos.md)
+- [Procedimentos pós-defesa](docs/pos-defesa.md)
 - [Contatos](docs/contatos.md)
 
 
