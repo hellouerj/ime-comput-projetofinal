@@ -16,7 +16,8 @@ Obs.: Este é um trabalho em andamento. Sugestões e correções são bem-vindas
 - Inscrição na disciplina
 - Elaboração do TCC
 - Defesa do Projeto Final
-- Procedimentos pós-defesa
-- Contatos
+- [Procedimentos pós-defesa](docs/contatos.md)
+- [Contatos](docs/contatos.md)
 
-<div align="right">Responsável pela elaboração e organização das informações: Prof. Marcelo</div>
+
+<div align="right">Responsável pela coleta, organização e estruturação das informações: Prof. Marcelo</div>
