@@ -1,3 +1,5 @@
+***Atenção:** o DAA agora se chama [DEPAAC](https://www.depaac.uerj.br/). Vefifique as informações a seguir, pois elas podem não refletir o novo conteúdo do site. As correções indicadas [aqui](/../../issues/1) serão tratadas e posteriormente integradas. Contribuições são bem-vindas!*
+
 # Procedimentos pós-defesa
 
 Após a defesa do Trabalho de Conclusão de Curso (TCC) na disciplina de Projeto Final (IME-04-10848), estudantes devem partir para os procedimentos pós-defesa para fins de conclusão do curso.
@@ -51,4 +53,3 @@ Todas as dúvidas relacionadas à emissão do diploma devem ser esclarecidas na 
 Nada Consta é o documento emitido pelas Bibliotecas declarando que o usuário não possui débitos na Rede Sirius. Sua apresentação é requisito obrigatório para o deferimento de processos de conclusão, transferência ou trancamento de cursos.
 
 Para mais informações, acesse https://www.rsirius.uerj.br/servicos/emissao-nada-consta
-
