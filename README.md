@@ -12,8 +12,8 @@ Público-alvo: Discentes e docentes do BCC/COMPUT/IME/UERJ.
 
 Obs.: Este é um trabalho em andamento. Sugestões e correções são bem-vindas.
 
-- Informações gerais
-- Inscrição na disciplina
+- [Visão geral](docs/visao-geral.md)
+- [Inscrição na disciplina](docs/inscricao.md)
 - Elaboração do TCC
 - Defesa do Projeto Final
 - [Procedimentos pós-defesa](docs/pos-defesa.md)
