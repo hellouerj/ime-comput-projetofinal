@@ -25,7 +25,7 @@ Verifique no [Calendário Acadêmico](https://www.uerj.br/ensino/calendario-acad
 O Termo de Colação de Grau é enviado ao setor responsável pela inserção dos dados no sistema. O fluxo do trâmite ocorre:
 1. do **IME** (a Unidade Acadêmica) para o [**DEP** (Departamento de Orientação e Supervisão Pedagógica)](https://www.dep.uerj.br/);
 2. do **DEP** para o [**DAA** (Departamento de Administração Acadêmica)](https://www.daa.uerj.br/);
-3. no próprio DAA, na **RECON**¹ (Divisão de Registro e Controle Acadêmico), que registra e arquiva o processo.
+3. no próprio DAA, internamente, para a **RECON** (Divisão de Registro e Controle Acadêmico), que registra e arquiva o processo.
 
 A RECON/DAA é o setor responsável pela validação final da vida acadêmica na UERJ, incluindo registro de diplomas, colação de grau e processos de revalidação.
 
