@@ -19,3 +19,11 @@ A disciplina **não é conduzida de forma presencial, nem no horário definido**
 ## Quais são os critérios de aprovação na disciplina?
 
 O critério central de aprovação é a conclusão do Projeto Final (Monografia e apresentação). Espera-se que cada estudante apresente seu Projeto Final no mesmo período em que se inscreveram na disciplina. Quem estiver te orientando indicará a você se/quando o Projeto Final possui o conteúdo necessário e suficiente para entrega e apresentação à banca examinadora.
+
+## Qual é exatamente a relação entre a disciplina de Metodologia Científica e o Projeto Final?
+
+> tl;dr: Sem uma metodologia, o Projeto Final fica sem rumo e você se perde sobre o que precisa ser feito.
+
+Um dos objetivos da disciplina de Metodologia Científica é induzir a construção e redação de trabalhos acadêmicos. Ao final do período, cada estudante elabora um anteprojeto do Projeto Final, o que evidencia seu aprendizado sobre como compreender e estruturar os passos de um trabalho.
+
+A definição da metodologia a ser seguida é o principal norteador para a elaboração do Projeto Final. Sem ela, o escopo do trabalho não fica delimitado, o que impede que você se organize para executá-lo. Além disso, a percepção de cumprimento de etapas auxilia consideravelmente a lidar com a ansiedade e outras questões.
