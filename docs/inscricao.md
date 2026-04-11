@@ -24,11 +24,11 @@ Em seguida, efetue a inscrição em alguma turma de Projeto Final, solicitando *
 
 Primeiramente, é importante ter o cuidado de não se inscrever se não houver previsão de conclusão do Projeto Final no período. Assim como em qualquer outra disciplina, você não deve se inscrever se achar que não conseguirá se comprometer com o que se espera como resultado.
 
-Estudantes que, por motivo comprovado, não tiverem completado a Monografia ou Projeto Final no período vigente poderão fazê-lo no período seguinte, caso quem estiver orientando julgue necessário. Nesse caso, registra-se no Relatório de Frequência e Notas (RFN) o *código 7 (sete)*, que indica a situação *"Em preparo"*. A situação *"Em preparo"* não conta para o cálculo de Coeficiente de Rendimento (CR).
+Estudantes que, por motivo comprovado, não tiverem completado a Monografia ou Projeto Final no período vigente poderão fazê-lo no período seguinte, caso quem estiver orientando julgue necessário. Nesse caso, registra-se no Relatório de Frequência e Notas (RFN) o *código 7 (sete)*, que indica a situação *"Em preparo"*.
 
 Estudantes têm o direito ao *código 7 (sete)* em, **no máximo, 3 (três) períodos**. Após esse prazo (a partir da **quarta vez** em que a disciplina é cursada), **não é mais possível** indicar que está em preparo. Somente poderá haver registro de **aprovação** ou **reprovação (nota ou frequência)** em seu Boletim Acadêmico, respeitado o prazo máximo de integralização curricular. Isso acontece até que o Projeto Final seja concluído.
 
-Por isso, recomenda-se **não** se inscrever se não puder dar andamento ao Projeto Final no período, já que não haverá impacto na contabilização de inscrições. Os períodos cuja situação seja *"Em preparo"*, porém, **também serão contabilizados** para a integralização curricular.
+A situação *"Em preparo"* **não é considerada** para o cálculo de **Coeficiente de Rendimento (CR)**. Porém, os períodos cuja situação seja *"Em preparo"* **serão contabilizados** para a integralização curricular. Por isso, para evitar impacto na contagem de inscrições, recomenda-se **não** se inscrever na disciplina se não puder dar andamento ao Projeto Final no período.
 
 Estas instruções encontram-se [nesta versão do Manual do Aluno](https://www.dep.uerj.br/arqs/ManualAluno_reduzido_2024.pdf), na página 18. As normas foram estabelecidas na [Deliberação 027/03](https://catalogo-redesirius.uerj.br/TerminalWeb/VisualizadorPdf?codigoArquivo=11030&tipoMidia=0).
 
