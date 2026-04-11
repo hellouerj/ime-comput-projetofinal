@@ -14,16 +14,16 @@ Todas as questões sobre o tema, a frequência de reuniões, a periodicidade de 
 
 > tl;dr: Não, mas é preciso manter contato ativo com quem estiver te orientando.
 
-A disciplina **não é conduzida de forma presencial, nem no horário definido**. É preciso efetuar a inscrição apenas para permitir o lançamento da nota (ou situação do andamento). A inscrição também é importante para que que o Departamento tenha conhecimento de cada estudante que está (ou não) em Projeto Final. Isso é importante para o acompanhamento dos prazos de conclusão.
+A disciplina **não é conduzida de forma presencial, nem no horário definido**. É preciso efetuar a inscrição apenas para permitir o lançamento da nota (ou situação do andamento). A inscrição também é importante para que o Departamento tenha conhecimento de cada estudante que está (ou não) em Projeto Final. Isso é importante para o acompanhamento dos prazos de conclusão.
 
 ## Quais são os critérios de aprovação na disciplina?
 
-O critério central de aprovação é a conclusão do Projeto Final (Monografia e apresentação). Espera-se que cada estudante apresente seu Projeto Final no mesmo período em que se inscreveram na disciplina. Quem estiver te orientando indicará a você se/quando o Projeto Final possui o conteúdo necessário e suficiente para entrega e apresentação à banca examinadora.
+O critério central de aprovação é a conclusão do Projeto Final (Monografia e apresentação). Espera-se que cada estudante apresente seu Projeto Final no mesmo período em que se inscreveu na disciplina. Quem estiver te orientando indicará a você se/quando o Projeto Final possui o conteúdo necessário e suficiente para entrega e apresentação à banca examinadora.
 
 ## Qual é exatamente a relação entre a disciplina de Metodologia Científica e o Projeto Final?
 
 > tl;dr: Sem uma metodologia, o Projeto Final fica sem rumo e você se perde sobre o que precisa ser feito.
 
-Um dos objetivos da disciplina de Metodologia Científica é induzir a construção e redação de trabalhos acadêmicos. Ao final do período, cada estudante elabora um anteprojeto do Projeto Final, o que evidencia seu aprendizado sobre como compreender e estruturar os passos de um trabalho.
+Um dos objetivos da disciplina de Metodologia Científica é induzir à construção e redação de trabalhos acadêmicos. Ao final do período, cada estudante elabora um anteprojeto do Projeto Final, o que evidencia seu aprendizado sobre como compreender e estruturar os passos de um trabalho.
 
 A definição da metodologia a ser seguida é o principal norteador para a elaboração do Projeto Final. Sem ela, o escopo do trabalho não fica delimitado, o que impede que você se organize para executá-lo. Além disso, a percepção de cumprimento de etapas auxilia consideravelmente a lidar com a ansiedade e outras questões.
