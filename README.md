@@ -8,7 +8,7 @@
 
 Este material tem por objetivo auxiliar na compreensão das principais características da disciplina de Projeto Final (IME04-10848) do Bacharelado em Ciência da Computação (BCC).
 
-Público-alvo: Discentes e docentes do BCC/COMPUT/IME/UERJ.
+Público-alvo: Estudantes e docentes do BCC/COMPUT/IME/UERJ.
 
 Obs.: Este é um trabalho em andamento. Sugestões e correções são bem-vindas.
 
