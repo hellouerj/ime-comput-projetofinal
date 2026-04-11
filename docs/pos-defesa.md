@@ -1,4 +1,4 @@
-***Atenção:** o DAA agora se chama [DEPAAC](https://www.depaac.uerj.br/). Vefifique as informações a seguir, pois elas podem não refletir o novo conteúdo do site. As correções indicadas [aqui](/../../issues/1) serão tratadas e posteriormente integradas. Contribuições são bem-vindas!*
+***Atenção:** o DAA agora se chama [DEPAAC](https://www.depaac.uerj.br/). Verifique as informações a seguir, pois elas podem não refletir o novo conteúdo do site. As correções indicadas [aqui](/../../issues/1) serão tratadas e posteriormente integradas. Contribuições são bem-vindas!*
 
 # Procedimentos pós-defesa
 
@@ -36,7 +36,7 @@ Para outras informações e solicitações: https://www.daa.uerj.br/solicitacoes
 > Informações extraídas de https://www.daa.uerj.br/perguntas-frequentes-diploma-e-afins
 
 A data de Colação de Grau é registrada somente após o término do período (após processamento das notas, ou seja, depois que o Sistema Acadêmico é atualizado para o próximo período).
-Nesse interstício de tempo, se necessário, é possível pedir no Serviço de Atendimento e Protocolo (SPAT) do DAA uma **Certidão de Colação de Grau**. Mas antes, é preciso se informar se o **Termo de Colação de Grau** já foi entregue à RECON/DAA, seguindo o fluxo do trâmite apresentado.
+Nesse interstício de tempo, se necessário, é possível pedir no Serviço de Atendimento e Protocolo (SPAT) do DAA uma **Certidão de Colação de Grau**. Antes, porém, é preciso se informar se o **Termo de Colação de Grau** já foi entregue à RECON/DAA, seguindo o fluxo do trâmite apresentado.
 
 ## Como funciona o processo de emissão do diploma?
 
@@ -44,12 +44,12 @@ Nesse interstício de tempo, se necessário, é possível pedir no Serviço de A
 
 Todas as dúvidas relacionadas à emissão do diploma devem ser esclarecidas na SAD (Seção de Apoio ao Diploma) do DAA.
 
-“É o serviço encarregado do atendimento aos alunos concluintes e diplomados e que informa sobre o andamento de processos de diploma e certificados: de graduação, pós-graduação e disciplina isolada; responde, ainda, pela guarda dos processos de diploma da graduação, com exigência documental; entrega os diplomas e certificados prontos aos diplomados ou seu representante legal.”
+“É o serviço encarregado do atendimento aos alunos concluintes e diplomados e que informa sobre o andamento de processos de diploma e certificados, em nível de graduação, pós-graduação e disciplina isolada; responde, ainda, pela guarda dos processos de diploma da graduação, com exigência documental; entrega os diplomas e certificados prontos aos diplomados ou seu representante legal.”
 
 ## O que é e para que serve o documento **Nada Consta**?
 
 > Informações extraídas de https://www.rsirius.uerj.br/servicos/emissao-nada-consta
 
-Nada Consta é o documento emitido pelas Bibliotecas declarando que o usuário não possui débitos na Rede Sirius. Sua apresentação é requisito obrigatório para o deferimento de processos de conclusão, transferência ou trancamento de cursos.
+Nada Consta é o documento emitido pelas bibliotecas declarando que o usuário não possui registro de débitos na Rede Sirius. Sua apresentação é requisito obrigatório para o deferimento de processos de conclusão, transferência ou trancamento de cursos.
 
 Para mais informações, acesse https://www.rsirius.uerj.br/servicos/emissao-nada-consta
