@@ -12,7 +12,7 @@ Portanto, simplesmente inscreva-se em qualquer turma que não possua conflito de
 
 > tl;dr: Inscreva-se nas outras disciplinas e depois solicite quebra de conflito de horário.
 
-O horário alocado na grade não possui relação com horário de elaboração do Projeto Final.
+O horário alocado na grade não possui relação com o horário dedicado à elaboração do Projeto Final.
 
 **Efetue primeiro a inscrição na outra disciplina** para não se prejudicar quanto a critérios de **prioridade de vagas**.
 
