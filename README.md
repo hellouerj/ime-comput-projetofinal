@@ -12,12 +12,13 @@ Público-alvo: Estudantes e docentes do BCC/COMPUT/IME/UERJ.
 
 Obs.: Este é um trabalho em andamento. Sugestões e correções são bem-vindas.
 
-- [Visão geral](docs/visao-geral.md)
-- [Inscrição na disciplina](docs/inscricao.md)
-- [Elaboração do Projeto Final](docs/elaboracao.md)
+- [Visão geral](./docs/visao-geral.md)
+- [Temas e docentes para orientação](./docs/temas-docentes.md)
+- [Inscrição na disciplina](./docs/inscricao.md)
+- [Elaboração do Projeto Final](./docs/elaboracao.md)
 - Defesa do Projeto Final
-- [Procedimentos pós-defesa](docs/pos-defesa.md)
-- [Contatos](docs/contatos.md)
+- [Procedimentos pós-defesa](./docs/pos-defesa.md)
+- [Contatos](./docs/contatos.md)
 
 
 <div align="right">Responsável pela coleta, organização e estruturação das informações: Prof. Marcelo (COMPUT/IME/UERJ)</div>
