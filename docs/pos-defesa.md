@@ -40,7 +40,7 @@ Nesse interstício de tempo, se necessário, é possível solicitar uma **Certid
 
 Todas as dúvidas relacionadas à emissão do diploma devem ser esclarecidas com a *Seção de Apoio ao Diploma (**SECADIP/DEPAAC**)*, anteriormente conhecida como SAD/DAA.
 
-*É o serviço encarregado do atendimento a estudantes concluintes e diplomados e que informa sobre o andamento de processos de diploma e certificados, em nível de graduação, pós-graduação e disciplina isolada; responde, ainda, pela guarda dos processos de diploma da graduação, com exigência documental; entrega os diplomas e certificados prontos aos diplomados ou seu representante legal.*
+*É o serviço encarregado do atendimento a estudantes concluintes e diplomado(a)s e que informa sobre o andamento de processos de diploma e certificados, em nível de graduação, pós-graduação e disciplina isolada; responde, ainda, pela guarda dos processos de diploma da graduação, com exigência documental; entrega os diplomas e certificados prontos aos diplomados ou seu representante legal.*
 
 ## O que é e para que serve o documento **Nada Consta**?
 
