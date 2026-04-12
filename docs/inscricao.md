@@ -36,8 +36,6 @@ Estas instruções encontram-se [nesta versão do Manual do Aluno](https://www.d
 
 > tl;dr: Não há limite quanto ao número de inscrições, mas há restrições com relação a critérios de aprovação.
 
-Caso o Projeto Final não seja defendido na quarta vez até o prazo limite, haverá *reprovação* no período corrente. Daí em diante, ocorre reprovação consecutivamente a cada período até que o Projeto Final seja defendido.
-
-A situação de reprovação não impede a inscrição em períodos seguintes.
+É possível inscrever-se até 3 (três) vezes sem obter reprovação. Caso o Projeto Final não seja defendido na quarta vez até o prazo limite do período corrente, ocorrerá *reprovação*. Daí em diante, haverá reprovação consecutivamente a cada período até que o Projeto Final seja defendido. A situação de reprovação, porém, não impede a inscrição em períodos seguintes. Note que as reprovações são contabilizadas no **Coeficiente de Rendimento (CR)** e na contagem do **tempo de integralização curricular**.
 
 ***Atenção**: é responsabilidade **exclusiva** de cada estudante acompanhar sua situação perante o prazo máximo de integralização curricular, que atualmente é de 16 períodos.*
