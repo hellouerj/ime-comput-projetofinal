@@ -1,5 +1,3 @@
-***Atenção:** o DAA agora se chama [DEPAAC](https://www.depaac.uerj.br/). Verifique as informações a seguir, pois elas podem não refletir o novo conteúdo do site. As correções indicadas [aqui](/../../issues/1) serão tratadas e posteriormente integradas. Contribuições são bem-vindas!*
-
 # Procedimentos pós-defesa
 
 Após a defesa do Trabalho de Conclusão de Curso (TCC) na disciplina de Projeto Final (IME-04-10848), iniciam-se os procedimentos pós-defesa para fins de conclusão do curso.
@@ -20,27 +18,27 @@ Verifique no [Calendário Acadêmico](https://www.uerj.br/ensino/calendario-acad
 
 ## O que acontece após a colação de grau?
 
-> Informações extraídas de https://www.daa.uerj.br/perguntas-frequentes-diploma-e-afins
+> Informações extraídas de https://www.depaac.uerj.br/perguntas-frequentes-diploma-e-afins
 
 O Termo de Colação de Grau é enviado ao setor responsável pela inserção dos dados no sistema. O fluxo do trâmite ocorre:
 1. da Unidade Acadêmica (o **IME**) para o [*Departamento de Orientação e Supervisão Pedagógica (**DEP**)*](https://www.dep.uerj.br/);
-2. do **DEP** para o [*Departamento de Administração Acadêmica (**DAA**)*](https://www.daa.uerj.br/);
-3. no próprio DAA, internamente, para a *Divisão de Registro e Controle Acadêmico (**RECON**)*, que registra e arquiva o processo. A RECON/DAA é o setor responsável pela validação final da vida acadêmica na UERJ, incluindo registro de diplomas, colação de grau e processos de revalidação.
+2. do **DEP** para o [*Departamento de Administração Acadêmica (**DEPAAC**)*](https://www.depaac.uerj.br/), anteriormente conhecido como **DAA**;
+3. no próprio **DEPAAC**, internamente, para a *Divisão de Registro e Controle Acadêmico (**DIVRECON/DEPAAC**)*, anteriormente conhecida como RECON/DAA, que coordena e acompanha as ações do processo de diplomação de estudantes da graduação.
 
-Outras informações e solicitações podem ser encontradas em  https://www.daa.uerj.br/solicitacoes-digitais-do-daa
+Outras informações e solicitações podem ser encontradas em https://www.depaac.uerj.br/procedimentos-academicos-e-solicitacoes-digitais
 
 ## Quando a colação de grau é registrada?
 
-> Informações extraídas de https://www.daa.uerj.br/perguntas-frequentes-diploma-e-afins
+> Informações extraídas de https://www.depaac.uerj.br/perguntas-frequentes-diploma-e-afins
 
 A data de Colação de Grau é registrada somente após o término do período (após processamento das notas, ou seja, depois que o Sistema Acadêmico é atualizado para o próximo período).
-Nesse interstício de tempo, se necessário, é possível solicitar uma **Certidão de Colação de Grau** ao *Serviço de Atendimento e Protocolo (**SPAT**)* do DAA. Antes, porém, é preciso se informar se o **Termo de Colação de Grau** já foi entregue à RECON/DAA, seguindo o fluxo do trâmite apresentado.
+Nesse interstício de tempo, se necessário, é possível solicitar uma **Certidão de Colação de Grau** ao *Serviço de Protocolo e Atendimento (**SERVPROAT/DEPAAC**)*, anteriormente denominado *Serviço de Atendimento e Protocolo (SPAT/DAA)*. Antes, porém, é preciso se informar se o **Termo de Colação de Grau** já foi entregue à DIVRECON/DEPAAC, seguindo o fluxo do trâmite apresentado.
 
 ## Como funciona o processo de emissão do diploma?
 
-> Informações extraídas de https://www.daa.uerj.br/estrutura
+> Informações extraídas de https://www.depaac.uerj.br/estrutura
 
-Todas as dúvidas relacionadas à emissão do diploma devem ser esclarecidas com a *Seção de Apoio ao Diploma (**SAD**)* do DAA.
+Todas as dúvidas relacionadas à emissão do diploma devem ser esclarecidas com a *Seção de Apoio ao Diploma (**SECADIP/DEPAAC**)*, anteriormente conhecida como SAD/DAA.
 
 *É o serviço encarregado do atendimento a estudantes concluintes e diplomados e que informa sobre o andamento de processos de diploma e certificados, em nível de graduação, pós-graduação e disciplina isolada; responde, ainda, pela guarda dos processos de diploma da graduação, com exigência documental; entrega os diplomas e certificados prontos aos diplomados ou seu representante legal.*
 
