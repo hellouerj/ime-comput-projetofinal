@@ -1,5 +1,23 @@
 # Elaboração do Projeto Final
 
+## Qual é a quantidade de páginas recomendada para a monografia?
+
+> tl;dr: Os parâmetros são muito subjetivos. Converse com quem está te orientando.
+
+A quantidade de páginas de uma monografia é muito relativa. Alguns critérios que podem influenciar a quantidade:
+
+- A familiaridade sobre o tópico da literatura,
+
+- A metodologia seguida,
+
+- A inclusão de código-fonte (que é relevante em áreas cuja estrutura seja fundamental para o entendimento e avaliação do tema),
+
+- A presença de tabelas e figuras relevantes,
+
+- Seu padrão de escrita (que deve ponderar o nível de qualidade sem perfeccionismo).
+
+O número de páginas não deve ser motivo de preocupação. O fluxo do desenvolvimento do Projeto Final vai trazer naturalmente a percepção da quantidade de páginas necessária e suficiente. Além disso, quem está te orientando vai acompanhar o processo e indicar se algo precisa ser simplificado ou aprofundado.
+
 ## Existe algum modelo (*template*) para a elaboração da monografia do Projeto Final?
 
 > tl;dr: Sim, há modelos que devem ser seguidos. A definição do modelo é feita junto a quem está te orientando.
@@ -29,7 +47,7 @@ Não esconda esses problemas de quem estiver te orientando! Informe claramente o
 
 Uma parte considerável de estudantes apresenta um foco muito intenso no início do processo, mas depois isso se traduz em muita exaustão. Tarefas repetitivas também podem acabar te cansando bastante. Depois de tanto desgaste, é comum que cheguem o desânimo e o estresse, e isso pode acabar desenvolvendo ou trazendo prejuízos a condições de saúde mental. O senso de cobrança (que comumente vem de nós mesmos) e de luta contra o tempo muitas vezes precisa ser ajustado.
 
-Em todas essas situações, pode ser interessante e importante procurar apoio de profissionais de saúde mental, principalmente na área de psicologia. Hoje em dia, talvez a maior parte de colegas no curso já tenha feito ou faça terapia, mas não comentam – não por vergonha, mas simplesmente porque não precisa ser divulgado. A Coordenação do Curso também pode indicar diferentes formas de apoio disponíveis na UERJ conforme suas demandas.
+Em todas essas situações, pode ser interessante e importante procurar apoio de profissionais de saúde mental, principalmente na área de psicologia. Hoje em dia, talvez a maior parte de colegas no curso já tenha feito ou faça terapia, mas não comentam — não por vergonha, mas simplesmente porque não precisa ser divulgado. A Coordenação do Curso também pode indicar diferentes formas de apoio disponíveis na UERJ conforme suas demandas.
 
 Não desista! Essa é uma das últimas etapas após encarar tantas disciplinas de períodos anteriores. Veja até onde você já chegou. :)
 
